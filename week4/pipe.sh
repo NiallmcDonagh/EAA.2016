@@ -1,4 +1,4 @@
-#! bin/bash
+#!/bin/bash
 
 man ps -ef | grep mysql
 
