@@ -1,7 +1,7 @@
-#! bin/bash
+#!/bin/bash
 
 read var
 
-echo date +%D-%r' $var >> diary.sh
+echo 'date +%D-%r' $var >> mydiary.text
 
 
